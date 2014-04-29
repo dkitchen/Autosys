@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Autosys4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TelnetHostName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.31.40.162</Value>
+    </Setting>
+    <Setting Name="TelnetUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dkitchen</Value>
+    </Setting>
+    <Setting Name="TelnetPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Haftcb1#</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
